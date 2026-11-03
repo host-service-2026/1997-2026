@@ -40,7 +40,7 @@ Footnotes:
 
 [4] Designed by Kate Linton, software engineering by Petras Surna of Yart Pty Ltd.
 
-[5] Ahmed, Nabila. ‘State-of-the-art selling rivals play to the galleries’, _The Age_, _Business_ (Ed. Michael Short), 5 July 2006 (pp. 1-2). _Correction:_ Hazel Dooney commissioned her website prior to meeting O’Hanlon, who was an existing collector of her work, not a mentor.
+[5] Ahmed, Nabila. ‘State-of-the-art selling rivals play to the galleries’, _The Age_, _Business_ (Ed. Michael Short), 5 July 2006 (pp. 1-2). Correction: Hazel Dooney commissioned her website prior to meeting O’Hanlon, who was an existing collector of her work, not a mentor.
 
 [6] 2006 Dooney, Hazel. ‘Life Study’, _The Next Big Thing_, _Griffith REVIEW_ Edition 13 (Ed. Julianne Schultz), 13 August 2006 (pp. 275-283). ISBN: 9780733319389. Extract retitled 'In front is a precipice, behind are wolves: Hazel Dooney walks the razor's edge between respect and celebrity in today's art world', published in _The Australian Financial Review_, 15 September (pp. 6-7).
 
