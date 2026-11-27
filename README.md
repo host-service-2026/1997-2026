@@ -26,7 +26,7 @@ From 2018 to 2021 Dooney worked on an international private portrait commission.
 
 From 2022 to 2024 she wrote a column for _Coagula Art Journal_, founded and edited by American art critic Mat Gleason.[20]
 
-In 2023 Dooney’s essay 'The future of art fraud' was published by _Griffith Review_ and she completed a major portrait of writer and art critic, Neha Kale.[21][22] From 2024 she worked on major private portrait commissions and developed the concept and digital strategy for _everythingthe.com_, a direct-subscription publication for Australia's leading art critic, John McDonald.[23] 
+In 2023 Dooney’s essay 'The future of art fraud' was published by _Griffith Review_ and she completed a major portrait of writer and art critic, Neha Kale.[21][22] From 2024 she worked on major private portrait commissions and developed the concept and digital strategy for _Everything the artworld doesn't want you to know_, a direct-subscription publication for Australia's leading art critic, John McDonald.[23] 
 
 At the end of the 2026 financial year, Hazel Dooney formally concluded her career as an artist and essayist, deleted all social media accounts and finalised all business operations in alignment with Australian Taxation Office requirements.
 
