@@ -57,3 +57,19 @@ body {
 .markdown-body .footnotes li {
   margin-bottom: 0.6rem;
 }
+
+/* Replaces the default return symbol with a clean upward arrow */
+.markdown-body a.reversefootnote {
+  font-size: 0 !important;
+  text-decoration: none !important;
+}
+
+.markdown-body a.reversefootnote::after {
+  content: " ↑";
+  font-size: 14px !important;
+  color: #000000;
+}
+
+.markdown-body a.reversefootnote:hover::after {
+  text-decoration: underline;
+}
