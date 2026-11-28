@@ -4,7 +4,7 @@ Dooney’s early and mid-career paintings were a satirical reflection on the inf
 
 From 1997 to 2001 Dooney produced major artworks for six solo exhibitions. She first received national attention in 1999, when one of her paintings was published in concurrent issues of _Vogue Australia_, _Belle_ and _Marie Claire_ magazines in response to a press release she sent independently.[^1]
 
-In 2001 Dooney was included in _The Weekend Australian_ with Jeffrey Smart and others in an article about artists who create work of a consistently high quality.[^2] The same year, she was the youngest and only female artist in an expedition to central Australia with well-known established artists, including John Olsen. In 2002, this resulted in the coffee table book _William Creek & Beyond_ and documentary _The View from Here_, aired on ABC TV.[^3][^4][^5]
+In 2001 Dooney was included in _The Weekend Australian_ with Jeffrey Smart and others in an article about artists who create work of a consistently high quality.[^2] The same year, she was the youngest and only female artist in an expedition to central Australia with well-known established artists, including John Olsen. In 2002, this resulted in the coffee table book _William Creek & Beyond_ and documentary _The View from Here_, aired on ABC TV.[^3] [^4] [^5]
 
 In 2003 Dooney commissioned the website hazeldooney.com.[^6] In 2004 she produced major artworks for a final solo exhibition as a represented artist. In 2005 she restructured her business to establish a direct-to-consumer model for fine art by connecting directly with the audience for her work via the internet, initially via email and a private newsletter disseminated via word of mouth.
 
@@ -12,7 +12,7 @@ In July 2006, during a one-off exhibition with progressive gallerist Andy Dinan,
 
 Dooney's primary business model was to create new series of artworks, and produce new works for each series via private commission, which continued throughout her career. She used online and email publishing as her marketing, alongside engagement with media until 2014. As the internet evolved to better host images, Dooney expanded her marketing to include documentary-style photography and short videos, which she filmed and edited herself.
 
-In 2007 Dooney was included in _Vogue Australia_’s 'Australia’s Most Wanted', featuring cultural figures developing international success.[^11] Two major paintings, _Sports Babe (Tennis)_ and _Sports Babe (Cricket)_, were sold by Christie's London in 2007 for 10,000 GBP each (23,000 AUD approx.). _Dangerous Career Babe: The Aviatrix_ was sold by Christie's London in 2008 for 14,375 GBP (32,200 AUD approx.).[^12][^13][^14]
+In 2007 Dooney was included in _Vogue Australia_’s 'Australia’s Most Wanted', featuring cultural figures developing international success.[^11] Two major paintings, _Sports Babe (Tennis)_ and _Sports Babe (Cricket)_, were sold by Christie's London in 2007 for 10,000 GBP each (23,000 AUD approx.). _Dangerous Career Babe: The Aviatrix_ was sold by Christie's London in 2008 for 14,375 GBP (32,200 AUD approx.).[^12] [^13] [^14]
 
 In 2011 Dooney was included as a case study in the 'Strategic Networks' chapter of university textbook _Strategy: Theory and Practice_.[^15]
 
@@ -26,7 +26,7 @@ From 2018 to 2021 Dooney worked on an international private portrait commission.
 
 From 2022 to 2024 she wrote a column for _Coagula Art Journal_, founded and edited by American art critic Mat Gleason.[^20]
 
-In 2023 Dooney’s essay 'The future of art fraud' was published by _Griffith Review_ and she completed a major portrait of writer and art critic, Neha Kale.[^21][^22] From 2024 she worked on major private portrait commissions and developed the concept and digital strategy for _Everything the artworld doesn't want you to know_, a direct-subscription publication for Australia's leading art critic, John McDonald.[^23] 
+In 2023 Dooney’s essay 'The future of art fraud' was published by _Griffith Review_ and she completed a major portrait of writer and art critic, Neha Kale.[^21] [^22] From 2024 she worked on major private portrait commissions and developed the concept and digital strategy for _Everything the artworld doesn't want you to know_, a direct-subscription publication for Australia's leading art critic, John McDonald.[^23] 
 
 At the end of the 2026 financial year, Hazel Dooney formally concluded her career as an artist and essayist, deleted all social media accounts and finalised all business operations in alignment with Australian Taxation Office requirements.
 
