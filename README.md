@@ -77,8 +77,4 @@ At the end of the 2026 financial year, Hazel Dooney formally concluded her caree
 
 [^23]: McDonald, John. _Everything the artworld doesn't want you to know_. Concept and digital strategy by Hazel Dooney, 2024: <https://www.everythingthe.com>
 
----
-
-[↑](#1997-2026)
-
 
