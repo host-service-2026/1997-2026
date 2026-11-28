@@ -29,18 +29,18 @@ body {
   line-height: 1.5;
 }
 
-/* Make links subtly underlined on hover so readers know footnotes are clickable */
+/* Underlines links on hover so readers see footnotes are clickable */
 .markdown-body a:hover {
   text-decoration: underline;
 }
 
-/* Superscript footnote numbers in the main text */
+/* Keeps superscript numbers neat without breaking 1.5 line spacing */
 .markdown-body sup {
   line-height: 0;
   font-size: 0.75em;
 }
 
-/* Footnotes section at the bottom */
+/* Shrinks the footnotes section at the bottom */
 .markdown-body .footnotes,
 .markdown-body .footnotes p,
 .markdown-body .footnotes li {
