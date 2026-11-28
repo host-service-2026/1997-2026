@@ -3,12 +3,17 @@
 
 @import "{{ site.theme }}";
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: #F4EFE6;
 }
 
 .markdown-body {
   font-size: 19px;
+  line-height: 1.5;
 }
 
 .markdown-body,
@@ -21,4 +26,5 @@ body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
   color: #000000;
   text-decoration: none;
+  line-height: 1.5;
 }
