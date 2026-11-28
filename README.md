@@ -30,8 +30,6 @@ In 2023 Dooney’s essay 'The future of art fraud' was published by _Griffith Re
 
 At the end of the 2026 financial year, Hazel Dooney formally concluded her career as an artist and essayist, deleted all social media accounts and finalised all business operations in alignment with Australian Taxation Office requirements.
 
-<br>
-
 
 [^1]: _Vogue Australia_ October 1999 p. 78, _Belle_ October–November 1999 p. 38, _Marie Claire_ October 1999 p. 131.
 
