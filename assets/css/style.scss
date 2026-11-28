@@ -3,8 +3,12 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background-color: #FAF8F5;
+}
+
 .markdown-body {
-  font-size: 19px;
+  font-size: 18px;
 }
 
 .markdown-body,
