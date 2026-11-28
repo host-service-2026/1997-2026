@@ -2,7 +2,7 @@ Hazel Dooney was a fine artist, writer and strategist. She specialised in concep
 
 Dooney’s early and mid-career paintings were a satirical reflection on the influence of advertising and popular culture, before both became interwoven with our lives via social media. These works were made with industrial materials and influenced by Tracey Moffatt, Cindy Sherman and Barbara Kruger. Her mature paintings were abstracts with subtle shifts in colour – executed in acrylic on linen and influenced by Agnes Martin and Mark Rothko – while her figurative 'pop' paintings evolved into nuanced contemporary portraiture, landscapes and still life, with the additional influences of Bridget Riley and Tamara de Lempicka.
 
-From 1997 to 2001 Dooney produced major artworks for six solo exhibitions. She first received national attention in 1999, when one of her paintings was published in concurrent issues of _Vogue Australia_, _Belle_ and _Marie Claire_ magazines in response to a press release she sent independently.[1]
+From 1997 to 2001 Dooney produced major artworks for six solo exhibitions. She first received national attention in 1999, when one of her paintings was published in concurrent issues of _Vogue Australia_, _Belle_ and _Marie Claire_ magazines in response to a press release she sent independently.[^1]
 
 In 2001 Dooney was included in _The Weekend Australian_ with Jeffrey Smart and others in an article about artists who create work of a consistently high quality.[2] The same year, she was the youngest and only female artist in an expedition to central Australia with well-known established artists, including John Olsen. In 2002, this resulted in the coffee table book _William Creek & Beyond_ and documentary _The View from Here_, aired on ABC TV.[3][4][5]
 
@@ -34,7 +34,7 @@ At the end of the 2026 financial year, Hazel Dooney formally concluded her caree
 
 ### Footnotes
 
-[1] _Vogue Australia_ October 1999 p. 78, _Belle_ October–November 1999 p. 38, _Marie Claire_ October 1999 p. 131.
+[^1] _Vogue Australia_ October 1999 p. 78, _Belle_ October–November 1999 p. 38, _Marie Claire_ October 1999 p. 131.
 
 [2] Reid, Michael. 'Sketching out a scorched canvas policy', _The Art Market_, _The Weekend Australian_, (day and month unknown) 2001.
 
