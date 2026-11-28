@@ -46,8 +46,8 @@ body {
 .markdown-body .footnotes,
 .markdown-body .footnotes p,
 .markdown-body .footnotes li {
-  font-size: 14px !important;
-  line-height: 1.4 !important;
+  font-size: 16px !important;
+  line-height: 1.5 !important;
 }
 
 .markdown-body .footnotes li {
@@ -61,7 +61,7 @@ body {
 
 .markdown-body a.reversefootnote::after {
   content: " ↑";
-  font-size: 14px !important;
+  font-size: 16px !important;
   color: #000000;
 }
 
