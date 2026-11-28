@@ -37,7 +37,7 @@ At the end of the 2026 financial year, Hazel Dooney formally concluded her caree
 
 [^2]: Reid, Michael. 'Sketching out a scorched canvas policy', _The Art Market_, _The Weekend Australian_, (day and month unknown) 2001.
 
-[^3]: McDonald, John. 'Incident at William Creek', _The Australian Financial Review_, 28 November 2002 (p. 64): https://www.afr.com/life-and-luxury/arts-and-culture/incident-at-william-creek-20021128-jkmbp
+[^3]: McDonald, John. 'Incident at William Creek', _The Australian Financial Review_, 28 November 2002 (p. 64): <https://www.afr.com/life-and-luxury/arts-and-culture/incident-at-william-creek-20021128-jkmbp>
 
 [^4]: McGregor, Ken; Ho, Hari; Crawford, Ashley. _William Creek & Beyond: Australian artists explore the outback. Jason Benjamin, Hazel Dooney, Robert Jacks, David Larwill, Jeff Makin, John Olsen, Rodney Pople, Mark Schaller, Andrew Sibley, Tim Storrier_. Craftsman House Imprint, 28 November 2002. ISBN-13: 978-1877004261 
 
@@ -45,38 +45,38 @@ At the end of the 2026 financial year, Hazel Dooney formally concluded her caree
 
 [^6]: Designed by Kate Linton, software engineering by Petras Surna of Yart Pty Ltd.
 
-[^7]: Ahmed, Nabila. 'State-of-the-art selling rivals play to the galleries', _The Age_, _Business_ (Ed. Michael Short), 5 July 2006 (pp. 1-2): https://www.theage.com.au/technology/state-of-the-art-selling-rivals-traditional-play-to-the-gallery-20060705-ge2ne0.html (correction: Hazel Dooney commissioned her website prior to meeting O’Hanlon, who was an existing collector of her work, not a mentor).
+[^7]: Ahmed, Nabila. 'State-of-the-art selling rivals play to the galleries', _The Age_, _Business_ (Ed. Michael Short), 5 July 2006 (pp. 1-2): <https://www.theage.com.au/technology/state-of-the-art-selling-rivals-traditional-play-to-the-gallery-20060705-ge2ne0.html> (correction: Hazel Dooney commissioned her website prior to meeting O’Hanlon, who was an existing collector of her work, not a mentor).
 
-[^8]: Crawford, Ashley. 'Hazel Dooney', _The Sunday Age Preview_, 16 July 2006 (p. 25): https://www.theage.com.au/entertainment/art-and-design/hazel-dooney-and-creed-ohanlon-20060717-ge2qd9.html 
+[^8]: Crawford, Ashley. 'Hazel Dooney', _The Sunday Age Preview_, 16 July 2006 (p. 25): <https://www.theage.com.au/entertainment/art-and-design/hazel-dooney-and-creed-ohanlon-20060717-ge2qd9.html> 
 
-[^9]: Dooney, Hazel. 'Life Study', _The Next Big Thing_, _Griffith REVIEW_ Edition 13 (Ed. Julianne Schultz), 13 August 2006 (pp. 275-283). ISBN: 9780733319389. Extract retitled 'In front is a precipice, behind are wolves: Hazel Dooney walks the razor's edge between respect and celebrity in today's art world', published in _The Australian Financial Review_, 15 September 2006 (pp. 6-7): https://www.afr.com/life-and-luxury/arts-and-culture/in-front-is-a-precipice-behind-are-wolves-20060915-jf6at
+[^9]: Dooney, Hazel. 'Life Study', _The Next Big Thing_, _Griffith REVIEW_ Edition 13 (Ed. Julianne Schultz), 13 August 2006 (pp. 275-283). ISBN: 9780733319389. Extract retitled 'In front is a precipice, behind are wolves: Hazel Dooney walks the razor's edge between respect and celebrity in today's art world', published in _The Australian Financial Review_, 15 September 2006 (pp. 6-7): <https://www.afr.com/life-and-luxury/arts-and-culture/in-front-is-a-precipice-behind-are-wolves-20060915-jf6at>
 
 [^10]: Condon, Matthew. 'Self portrait', _QWeekend_, _The Courier Mail_, 23–24 September 2006 (pp. 24-27).
 
 [^11]: Press, Clare. 'Australia’s Most Wanted', _Vogue Australia_, December 2007 (p. 238, p. 252).
 
-[^12]: Christie's London Live Auction 7482, _Modern and Contemporary Australian Art Including Works by New Zealand and South African Artists_, closed 12 December 2007. _Sports Babe (Tennis)_, signed and dated 'DOONEY 2000' (lower left), enamel on board, unframed, 39½ x 59in. (100.3 x 149.8cm.), price realised 10,000 GBP (23,000 AUD approx.): https://www.christies.com/en/lot/lot-5007638
+[^12]: Christie's London Live Auction 7482, _Modern and Contemporary Australian Art Including Works by New Zealand and South African Artists_, closed 12 December 2007. _Sports Babe (Tennis)_, signed and dated 'DOONEY 2000' (lower left), enamel on board, unframed, 39½ x 59in. (100.3 x 149.8cm.), price realised 10,000 GBP (23,000 AUD approx.): <https://www.christies.com/en/lot/lot-5007638>
 
-[^13]: Christie's London Live Auction 7482, _Modern and Contemporary Australian Art Including Works by New Zealand and South African Artists_, closed 12 December 2007. _Sports Babe (Cricket)_, signed and dated 'DOONEY 2005' (lower left), acrylic with high gloss enamel and reflective vinyl on board, unframed, 39½ x 59in. (100.3 x 149.8cm.), price realised 10,000 GBP (23,000 AUD approx.): https://www.christies.com/en/lot/lot-5007639
+[^13]: Christie's London Live Auction 7482, _Modern and Contemporary Australian Art Including Works by New Zealand and South African Artists_, closed 12 December 2007. _Sports Babe (Cricket)_, signed and dated 'DOONEY 2005' (lower left), acrylic with high gloss enamel and reflective vinyl on board, unframed, 39½ x 59in. (100.3 x 149.8cm.), price realised 10,000 GBP (23,000 AUD approx.): <https://www.christies.com/en/lot/lot-5007639>
 
-[^14]: Christie's London Live Auction 7653, _Modern and Contemporary Australian and South African Art_, closed 16 December 2008. _Dangerous Career Babe: The Aviatrix_, signed 'DOONEY 2008' (lower left), high gloss enamel on custom-made board, 63 x 82 5/8in. (160 x 209.5cm.), price realised 14,375 GBP (32,200 AUD approx.): https://www.christies.com/en/lot/lot-5167286
+[^14]: Christie's London Live Auction 7653, _Modern and Contemporary Australian and South African Art_, closed 16 December 2008. _Dangerous Career Babe: The Aviatrix_, signed 'DOONEY 2008' (lower left), high gloss enamel on custom-made board, 63 x 82 5/8in. (160 x 209.5cm.), price realised 14,375 GBP (32,200 AUD approx.): <https://www.christies.com/en/lot/lot-5167286>
 
 [^15]: Clegg, Stewart; Carter, Chris; Kornberger, Martin; Schweitzer, Jochen. 'In Practice: Hazel Dooney – Not a hard sell', case study in the 'Strategic Networks' section of _Strategy: Theory and Practice_. SAGE Publications Ltd, 2011 (pp. 269-270). ISBN-13: 978-1849201520.
 
 [^16]: Dooney, Hazel. 'Broken', _The Best Australian Essays 2013_ (Ed. Robert Manne). Published by Black Inc., November 2013: (pp. 21-31). ISBN: 9781863956253. First published in 'Broken', _Women & Power_, _Griffith REVIEW_ Edition 40 (Ed. Julianne Schultz). April 2013 (pp. 252-262). ISBN: 9781922079978. Extract published as 'Bad Education' in _Good Weekend_ magazine in _The Age_ and _The Sydney Morning Herald_ newspapers, 13 April 2013. 
 
-[^17]: Laws that failed to protect Queensland school students aged 16 and 17 were changed by the _Criminal Justice Legislation (Sexual Violence and Other Matters) Amendment Act 2024_, implemented on 20 September 2025: https://www.qld.gov.au/justice/crime-and-criminal-history/crime/sex-offences-with-minors
+[^17]: Laws that failed to protect Queensland school students aged 16 and 17 were changed by the _Criminal Justice Legislation (Sexual Violence and Other Matters) Amendment Act 2024_, implemented on 20 September 2025: <https://www.qld.gov.au/justice/crime-and-criminal-history/crime/sex-offences-with-minors>
 
-[^18]: Gottgens, Carla. 'Ten Dicta for Young Women Who Are Artists by Hazel Dooney', City of Melbourne Public Art Commission, Royal Lane & Bourke Street, Melbourne, November 2013: https://www.youtube.com/watch?v=M3U8kFvwiuE
+[^18]: Gottgens, Carla. 'Ten Dicta for Young Women Who Are Artists by Hazel Dooney', City of Melbourne Public Art Commission, Royal Lane & Bourke Street, Melbourne, November 2013: <https://www.youtube.com/watch?v=M3U8kFvwiuE>
 
 [^19]: Biographical profiles published in 2013 contained inaccuracies regarding Hazel Dooney's medical history, incorrectly citing a bipolar diagnosis at age 16 and in 2000 without medical verification. Following these publications Dooney also concluded her association with O'Hanlon, who was not her representative.
 
-[^20]: Dooney, Hazel. 'Chaptered Narrative Column', _Coagula Art Journal_, founded and edited by Mat Gleason. 6 April 2022 to 8 July 2024: https://coagula.com/author/hazel-dooney
+[^20]: Dooney, Hazel. 'Chaptered Narrative Column', _Coagula Art Journal_, founded and edited by Mat Gleason. 6 April 2022 to 8 July 2024: <https://coagula.com/author/hazel-dooney>
 
 [^21]: Dooney, Hazel. 'The future of art fraud', _Counterfeit Culture_, _Griffith Review_ Edition 79 (Ed. Carody Culver). 7 February 2023 (pp. 111-117). ISBN: 978-1-922212-80-1.
 
-[^22]: _Portrait of Neha Kale_, Hazel Dooney 2023. Acrylic on linen with cedar stretcher, 54 x 54in. (137.16 x 137.16cm.): https://coagula.com/2023/07/24/the-more-complex-reconnections-made-me-more-optimistic
+[^22]: _Portrait of Neha Kale_, Hazel Dooney 2023. Acrylic on linen with cedar stretcher, 54 x 54in. (137.16 x 137.16cm.): <https://coagula.com/2023/07/24/the-more-complex-reconnections-made-me-more-optimistic>
 
-[^23]: McDonald, John. _Everything the artworld doesn't want you to know_. Concept and digital strategy by Hazel Dooney, 2024: https://www.everythingthe.com
+[^23]: McDonald, John. _Everything the artworld doesn't want you to know_. Concept and digital strategy by Hazel Dooney, 2024: <https://www.everythingthe.com>
 
 
