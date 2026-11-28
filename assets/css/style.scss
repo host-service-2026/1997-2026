@@ -13,7 +13,6 @@ body {
 
 .markdown-body {
   font-size: 19px;
-  line-height: 1.5 !important;
 }
 
 .markdown-body,
@@ -26,26 +25,16 @@ body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
   color: #000000;
   text-decoration: none;
-  line-height: 1.5 !important;
+  line-height: 1.8 !important;
 }
 
-/* Underlines links on hover so readers see footnotes are clickable */
 .markdown-body a:hover {
   text-decoration: underline;
 }
 
-/* Keeps superscript numbers neat without breaking 1.5 line spacing */
 .markdown-body sup {
   line-height: 0 !important;
   font-size: 0.75em;
-}
-
-/* Shrinks the footnotes section at the bottom */
-.markdown-body .footnotes,
-.markdown-body .footnotes p,
-.markdown-body .footnotes li {
-  font-size: 14px !important;
-  line-height: 1.4 !important;
 }
 
 .markdown-body .footnotes {
@@ -54,11 +43,17 @@ body {
   border-top: 1px solid rgba(0, 0, 0, 0.2);
 }
 
+.markdown-body .footnotes,
+.markdown-body .footnotes p,
+.markdown-body .footnotes li {
+  font-size: 14px !important;
+  line-height: 1.4 !important;
+}
+
 .markdown-body .footnotes li {
   margin-bottom: 0.6rem;
 }
 
-/* Replaces the default return symbol with a clean upward arrow */
 .markdown-body a.reversefootnote {
   font-size: 0 !important;
   text-decoration: none !important;
