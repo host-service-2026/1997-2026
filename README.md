@@ -16,17 +16,17 @@ In 2007 Dooney was included in _Vogue Australia_’s 'Australia’s Most Wanted'
 
 In 2011 Dooney was included as a case study in the 'Strategic Networks' chapter of university textbook _Strategy: Theory and Practice_.[^15]
 
-In 2013 her essay 'Broken' was published by _Griffith Review_ and included in _The Best Australian Essays 2013_, edited by Robert Manne. An edited extract, retitled 'Bad Education', was published in _Good Weekend_ magazine in _The Age_ and _The Sydney Morning Herald_ newspapers.[^16] The related legal loophole that failed to protect Queensland school students aged 16 and 17 was closed 12 years later.[^17]
+In 2013 her essay 'Broken' was published by _Griffith Review_ and included in _The Best Australian Essays 2013_, edited by Robert Manne.[^16] An edited extract, retitled 'Bad Education', was published in _Good Weekend_ magazine in _The Age_ and _The Sydney Morning Herald_ newspapers.[^17] The related legal loophole that failed to protect Queensland school students aged 16 and 17 was closed 12 years later.[^18]
 
-Also in 2013, Lord Mayor Robert Doyle invited Dooney to create a public artwork for The City of Melbourne after reading her blog. The 15 metre text-based mural, _Ten Dicta for Young Women Who Are Artists_, was located on Royal Lane, off Bourke Street in Melbourne’s CBD, and remained beyond the initial agreement to 2019.[^18]
+Also in 2013, Lord Mayor Robert Doyle invited Dooney to create a public artwork for The City of Melbourne after reading her blog. The 15 metre text-based mural, _Ten Dicta for Young Women Who Are Artists_, was located on Royal Lane, off Bourke Street in Melbourne’s CBD, and remained beyond the initial agreement to 2019.[^19]
 
-From 2014 Dooney restructured to reduce her public profile, disengaging from interviews with media due to sensationalism and factually inaccurate 2013 profiles – including unverified claims regarding her medical history.[^19] Instead, she expanded her direct-to-audience writing to increase asset scarcity and further tailored private stakeholder communications.
+From 2014 Dooney restructured to reduce her public profile, disengaging from interviews with media due to sensationalism and factually inaccurate 2013 profiles – including unverified claims regarding her medical history.[^20] Instead, she expanded her direct-to-audience writing to increase asset scarcity and further tailored private stakeholder communications.
 
 From 2018 to 2021 Dooney worked on an international private portrait commission. In response to the sitter, her figurative work became nuanced and incorporated landscape backgrounds. Until late 2022, she developed new abstract work exploring the way colour changes in natural light under the patronage of entrepreneur, investor and corporate advisor Mark Carnegie.
 
-From 2022 to 2024 she wrote a column for _Coagula Art Journal_, founded and edited by American art critic Mat Gleason.[^20]
+From 2022 to 2024 she wrote a column for _Coagula Art Journal_, founded and edited by American art critic Mat Gleason.[^21]
 
-In 2023 Dooney’s essay 'The future of art fraud' was published by _Griffith Review_ and she completed a major portrait of writer and art critic, Neha Kale.[^21] [^22] From 2024 she worked on major private portrait commissions and developed the concept and digital strategy for _Everything the artworld doesn't want you to know_, a direct-subscription publication for Australia's leading art critic, John McDonald.[^23] 
+In 2023 Dooney’s essay 'The future of art fraud' was published by _Griffith Review_ and she completed a major portrait of writer and art critic, Neha Kale.[^22] [^23] From 2024 she worked on major private portrait commissions and developed the concept and digital strategy for _Everything the artworld doesn't want you to know_, a direct-subscription publication for Australia's leading art critic, John McDonald.[^24] 
 
 At the end of the 2026 financial year, Hazel Dooney formally concluded her career as an artist and essayist, deleted all social media accounts and finalised all business operations in alignment with Australian Taxation Office requirements.
 
@@ -61,20 +61,22 @@ At the end of the 2026 financial year, Hazel Dooney formally concluded her caree
 
 [^15]: Clegg, Stewart; Carter, Chris; Kornberger, Martin; Schweitzer, Jochen. 'In Practice: Hazel Dooney – Not a hard sell', case study in the 'Strategic Networks' section of _Strategy: Theory and Practice_. SAGE Publications Ltd, 2011 (pp. 269-270). ISBN-13: 978-1849201520.
 
-[^16]: Dooney, Hazel. 'Broken', _The Best Australian Essays 2013_ (Ed. Robert Manne). Published by Black Inc., November 2013: (pp. 21-31). ISBN: 9781863956253. First published in 'Broken', _Women & Power_, _Griffith REVIEW_ Edition 40 (Ed. Julianne Schultz). April 2013 (pp. 252-262). ISBN: 9781922079978. Extract published as 'Bad Education' in _Good Weekend_ magazine in _The Age_ and _The Sydney Morning Herald_ newspapers, 13 April 2013. 
+[^16]: Dooney, Hazel. 'Broken', _The Best Australian Essays 2013_ (Ed. Robert Manne). Published by Black Inc., November 2013: (pp. 21-31). ISBN: 9781863956253. 
 
-[^17]: Laws that failed to protect Queensland school students aged 16 and 17 were changed by the _Criminal Justice Legislation (Sexual Violence and Other Matters) Amendment Act 2024_, implemented on 20 September 2025: <https://www.qld.gov.au/justice/crime-and-criminal-history/crime/sex-offences-with-minors>
+[^17]: Dooney, Hazel. 'Broken', _Women & Power_, _Griffith REVIEW_ Edition 40 (Ed. Julianne Schultz). April 2013 (pp. 252-262). ISBN: 9781922079978. Extract published as 'Bad Education' in _Good Weekend_ magazine in _The Age_ and _The Sydney Morning Herald_ newspapers, 13 April 2013. 
 
-[^18]: Gottgens, Carla. 'Ten Dicta for Young Women Who Are Artists by Hazel Dooney', City of Melbourne Public Art Commission, Royal Lane & Bourke Street, Melbourne, November 2013: <https://www.youtube.com/watch?v=M3U8kFvwiuE>
+[^18]: Laws that failed to protect Queensland school students aged 16 and 17 were changed by the _Criminal Justice Legislation (Sexual Violence and Other Matters) Amendment Act 2024_, implemented on 20 September 2025: <https://www.qld.gov.au/justice/crime-and-criminal-history/crime/sex-offences-with-minors>
 
-[^19]: Biographical profiles published in 2013 contained inaccuracies regarding Hazel Dooney's medical history, incorrectly citing a bipolar diagnosis at age 16 and in 2000 without medical verification. Following these publications Dooney also concluded her association with O'Hanlon, who was not her representative.
+[^19]: Gottgens, Carla. 'Ten Dicta for Young Women Who Are Artists by Hazel Dooney', City of Melbourne Public Art Commission, Royal Lane & Bourke Street, Melbourne, November 2013: <https://www.youtube.com/watch?v=M3U8kFvwiuE>
 
-[^20]: Dooney, Hazel. 'Chaptered Narrative Column', _Coagula Art Journal_, founded and edited by Mat Gleason. 6 April 2022 to 8 July 2024: <https://coagula.com/author/hazel-dooney>
+[^20]: Biographical profiles published in 2013 contained inaccuracies regarding Hazel Dooney's medical history, incorrectly citing a bipolar diagnosis at age 16 and in 2000 without medical verification. Following these publications Dooney also concluded her association with O'Hanlon, who was not her representative.
 
-[^21]: Dooney, Hazel. 'The future of art fraud', _Counterfeit Culture_, _Griffith Review_ Edition 79 (Ed. Carody Culver). 7 February 2023 (pp. 111-117). ISBN: 978-1-922212-80-1.
+[^21]: Dooney, Hazel. 'Chaptered Narrative Column', _Coagula Art Journal_, founded and edited by Mat Gleason. 6 April 2022 to 8 July 2024: <https://coagula.com/author/hazel-dooney>
 
-[^22]: _Portrait of Neha Kale_, Hazel Dooney 2023. Acrylic on linen with cedar stretcher, 54 x 54in. (137.16 x 137.16cm.): <https://coagula.com/2023/07/24/the-more-complex-reconnections-made-me-more-optimistic>
+[^22]: Dooney, Hazel. 'The future of art fraud', _Counterfeit Culture_, _Griffith Review_ Edition 79 (Ed. Carody Culver). 7 February 2023 (pp. 111-117). ISBN: 978-1-922212-80-1.
 
-[^23]: McDonald, John. _Everything the artworld doesn't want you to know_. Concept and digital strategy by Hazel Dooney, 2024: <https://www.everythingthe.com>
+[^23]: _Portrait of Neha Kale_, Hazel Dooney 2023. Acrylic on linen with cedar stretcher, 54 x 54in. (137.16 x 137.16cm.): <https://coagula.com/2023/07/24/the-more-complex-reconnections-made-me-more-optimistic>
+
+[^24]: McDonald, John. _Everything the artworld doesn't want you to know_. Concept and digital strategy by Hazel Dooney, 2024: <https://www.everythingthe.com>
 
 
