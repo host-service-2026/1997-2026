@@ -32,7 +32,7 @@ At the end of the 2026 financial year, Hazel Dooney formally concluded her caree
 
 <br>
 
-## Footnotes
+### Footnotes
 
 [1] _Vogue Australia_ October 1999 p. 78, _Belle_ October–November 1999 p. 38, _Marie Claire_ October 1999 p. 131.
 
